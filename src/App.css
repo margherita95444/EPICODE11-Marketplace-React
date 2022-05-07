@@ -1,0 +1,80 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.card{
+  width: 19rem;
+  border-radius: 2.2rem;
+  height: 565px; /*600*/
+}
+
+.card-img{
+  width: 200px; /*250*/
+  height: 200px; /*200*/
+} 
+
+.navbar{
+  height: 130px;
+  font-size:x-large; 
+}
+
+.logo{
+font-size: 5rem;
+}
+
+.cart{
+  font-size: 3rem;
+}
+
+a, Link{
+  text-decoration: none;
+}
+
+
+nav, footer{
+  background-color: #282c34;
+  color: white;
+}
+
+footer{
+  font-size: large;
+}
+
+.navbar-brand{
+  font-size:xx-large;
+}
+
+footer>.logo{
+  font-size: 8rem;
+}
+
+
+.sold-out{
+  position: absolute;
+  top: 6px;
+  left: -20px;
+  background-color: red;
+  border-radius: 20px;
+  font-weight: bold;
+  height: 50px;
+  width: 150px;
+  color: white;
+}
+
+#pDetail{
+  width: 60%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: logo infinite 20s linear;
+  }
+}
+
+@keyframes logo{
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
