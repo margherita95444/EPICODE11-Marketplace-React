@@ -5,7 +5,7 @@ export default [
     },
     {
       "id": 2,
-      "name": "Elettronic",
+      "name": "Electronic",
     },
     {
       "id": 3,

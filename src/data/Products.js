@@ -19,7 +19,7 @@ export default [
     "description": "Text text text text text text text text text text text text text",
     "productCategory": {
       "id": 2,
-      "name": "Elettronic"
+      "name": "Electronic"
     },
     "price": 3,
     "quantity": 0,
@@ -71,7 +71,7 @@ export default [
     "description": "Text text text text text text text text text",
     "productCategory": {
       "id": 2,
-      "name": "Elettronic"
+      "name": "Electronic"
     },
     "price": 200,
     "quantity": 0,
@@ -80,7 +80,7 @@ export default [
   {
     "id": 7,
     "img": "../assets/images/T-shirt.jpg",
-    "name": "T-Shirt",
+    "name": "T-shirt",
     "description": "Text text text text text text text text text",
     "productCategory": {
       "id": 6,
