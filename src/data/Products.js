@@ -79,8 +79,8 @@ export default [
   },
   {
     "id": 7,
-    "img": "../assets/images/T-shirt.jpg",
-    "name": "T-shirt",
+    "img": "../assets/images/t-shirt.jpg",
+    "name": "T-Shirt",
     "description": "Text text text text text text text text text",
     "productCategory": {
       "id": 6,
